@@ -258,7 +258,7 @@
 }
 
 /* и элемента с модификатором вида ключ-значение */
-.table_cell_theme_dark {
+.table__cell_theme_dark {
   width: 200px;
   color: white;
   margin-right: 0;
@@ -374,7 +374,7 @@ margin: 60px 0 40px;
   flex-direction: column;
 }
 
-.footer_column_social-icon {
+.footer__social-icon {
   width: 16px;
   height: 16px;
   margin-right: 10px;
