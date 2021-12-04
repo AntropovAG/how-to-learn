@@ -3,10 +3,6 @@
   height: 38px;
 }
 
-/* .resourses__logo:hover {
-  transition: background-color 1s ease-out;
-  background-color: rgba(22, 22, 22, 0.7);
-} */
 .resourses__logo:hover {
   transition: transform .5s linear;
   transform: scale(1.1);
