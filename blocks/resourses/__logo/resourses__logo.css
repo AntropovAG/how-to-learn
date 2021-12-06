@@ -4,6 +4,6 @@
 }
 
 .resourses__logo:hover {
-  transition: transform .5s linear;
-  transform: scale(1.1);
+  opacity: .6;
+  transition: opacity 1s;
 }
